@@ -4,7 +4,7 @@
 Projeto desenvolvido como parte dos estudos em ADS.
 
 
-tecnologias utilizadas:
+### Tecnologias utilizadas:
 - HTML
 - CSS
 - JavaScript
