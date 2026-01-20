@@ -9,7 +9,6 @@ Projeto desenvolvido como parte dos estudos em ADS.
 - CSS
 - JavaScript
 
-
 ### Funcionalidades:
 - Vitrine de produtos
 - Layout responsivo
