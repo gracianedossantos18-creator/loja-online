@@ -15,4 +15,4 @@ Projeto desenvolvido como parte dos estudos em ADS.
 - Integração com WhatsApp
 
 
-🔗 Site online: file:///C:/Users/Grazi/Desktop/loja-virtual/index.html
+🔗 Site online: file:///C:/Users/Grazi/OneDrive%20-%20unimar.br/%C3%81rea%20de%20Trabalho/loja-virtual/index.html
